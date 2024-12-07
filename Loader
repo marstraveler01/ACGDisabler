@@ -1,3 +1,4 @@
+print("Injected")
 return {
     Name = "ACGDisabler", -- Addon Name (can't contain spaces)
 	Title = "ACGDisabler", -- Name for the groupbox

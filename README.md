@@ -8,8 +8,12 @@ FEATURES:
 
 -more coming soon
 
-DEVELOMENT TEMPORARY HALTED, AS ALL OF MY ACCOUNTS ARE BANNED
-
 How to use:
 
-a mspaint plugin, ckeck releases
+a mspaint plugin, check releases
+
+❓How to update code?
+
+-check disabler folder and replace the Disaber.txt with the version of ur liking (u can use ur own code too)
+
+

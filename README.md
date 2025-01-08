@@ -1,19 +1,22 @@
-Introducing ACGDisabler: a new way to play acg
+Introducing ACGDisabler: a (almost) fully fledged ac disabler for acg
 
 FEATURES: 
 
--remove anti-stand (kinda)
+-remove anti-stand 
 
 -remove antiglitch
 
 -more coming soon
 
+! FLAWS:
+
+-no anti-stand loophole protection disabler (for now)
+
 How to use:
 
 a mspaint plugin, check releases
 
-❓How to update code?
-
--check disabler folder and replace the Disaber.txt with the version of ur liking (u can use ur own code too)
+rewrite soon 
 
 CONFIRMED TO WORK ON 0.55C+
+

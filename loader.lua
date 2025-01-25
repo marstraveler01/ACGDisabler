@@ -15,7 +15,7 @@ return {
 				Func = function()
 					loadstring(game:HttpGet("https://raw.githubusercontent.com/marstraveler01/ACGDisabler/refs/heads/main/Disabler/Disabler.lua.txt"))()
 				end
-			},
+		 }
         }
     }
 }

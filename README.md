@@ -1,3 +1,5 @@
+![logo](https://github.com/marstraveler01/ACGDisabler/blob/3a8065287f322c2f1981cd86df37041cd9c6da19/retouch_2025012814013318.jpg)
+
 Introducing ACGDisabler: a (almost) fully fledged ac disabler for acg
 
 FEATURES: 

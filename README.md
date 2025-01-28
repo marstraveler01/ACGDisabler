@@ -2,7 +2,7 @@
 
 Introducing ACGDisabler: a (almost) fully fledged ac disabler for acg
 
-FEATURES: 
+# FEATURES: 
 
 -remove anti-stand 
 
@@ -10,7 +10,7 @@ FEATURES:
 
 -more coming soon
 
-! FLAWS:
+# !FLAWS:
 
 -no anti-stand loophole protection disabler (for now)
 

@@ -10,7 +10,7 @@ Introducing ACGDisabler: a (almost) fully fledged ac disabler for acg
 
 -more coming soon
 
-# !FLAWS:
+# ! FLAWS:
 
 -no anti-stand loophole protection disabler (for now)
 

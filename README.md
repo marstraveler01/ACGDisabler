@@ -20,5 +20,11 @@ a mspaint plugin, check releases
 
 rewrite soon 
 
-CONFIRMED TO WORK ON 0.55C+
+# CHANGELOG
+
+v2.1:
+
+added changlogs
+
+disabled vran
 

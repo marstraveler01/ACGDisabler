@@ -1,2 +1,2 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/marstraveler01/obsidian/refs/heads/main/Library.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/marstraveler01/ACGDisabler/Disabler/Disabler.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/marstraveler01/ACGDisabler/refs/heads/main/Disabler/Disabler.lua.txt"))()
